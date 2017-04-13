@@ -1,0 +1,39 @@
+Body {
+background-color: #003648;
+font-color:#ffff;
+font-family: Arimo, Arial, Sans-serif;
+}
+
+title {
+font-style: normal;
+font-family; Arimo, Arial, Sans-Serif;
+margin: 10px;
+}
+
+.banner {
+max-width: 960px;
+max-height:400px;
+}
+
+.links {
+color: #474747;
+border-radius: 2px;
+border-color: #474747;
+float: left;
+}
+
+.watch{
+max-width: 5px;
+max-height: 10px;
+float: left;
+}
+.fall {
+max-width: 5px;
+max-height: 10px;
+float: left;
+}
+.stand {
+max-width: 5px;
+max-height: 10px;
+float: left;
+}
